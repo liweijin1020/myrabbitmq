@@ -1,0 +1,10 @@
+com\example\myrabbitmq\work_gongping\Producer.class
+com\example\myrabbitmq\work\Producer.class
+com\example\myrabbitmq\work\Consumer2$1.class
+com\example\myrabbitmq\simple\Recv.class
+com\example\myrabbitmq\simple\Recv$1.class
+com\example\myrabbitmq\util\ConnectionUtil.class
+com\example\myrabbitmq\work\Consumer2.class
+com\example\myrabbitmq\work\Consumer1$1.class
+com\example\myrabbitmq\work\Consumer1.class
+com\example\myrabbitmq\simple\Send.class
